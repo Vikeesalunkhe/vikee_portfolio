@@ -21,7 +21,7 @@ export default function About(){
             </p>
 
             <p className="muted">
-              My focus areas: embedded testing, industrial automation, data collection, and building internal tools to improve production.
+              My focus areas: Embedded Systeams, industrial automation, data collection, and building internal tools to improve production.
             </p>
           </div>
         </div>

@@ -1,10 +1,15 @@
 import React from "react";
+import profile from "../assets/profile.jpg";
 
 export default function Navbar(){
   return (
     <header className="navbar">
       <div className="nav-inner">
-        <div className="brand">Vikee</div>
+        <div>
+          <div className="brand">Vikee Salunkhe</div>
+          <div className="sub-brand">Associate Software Enginner.</div>
+        </div>
+
         <nav>
           <ul className="nav-links">
             <li><a href="#home">Home</a></li>

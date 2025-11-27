@@ -7,7 +7,7 @@ export default function Home(){
       <div className="container home-inner">
         <div>
           <h1>Hello, I’m <span style={{color:"#0b69ff"}}>Vikee</span></h1>
-          <div className="tagline muted">Python Developer • React Learner</div>
+          <div className="tagline muted">Python Developer • Embedded Systeam Learner</div>
           <p className="muted" style={{maxWidth:680}}>
             I build tools for embedded systems and industrial projects. I like solving hardware-software problems and automating workflows.
             This portfolio highlights my projects, skills and contact details — feel free to reach out!

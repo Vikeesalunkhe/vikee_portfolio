@@ -89,6 +89,8 @@ footer { padding: 24px 0; text-align:center; color:var(--muted); font-size:14px;
   justify-content:space-between;
 }
 .brand { font-weight:700; color:var(--accent); font-size:18px; }
+.sub-brand { font-size:12px; color:var(--muted); margin-top:2px; }
+
 .nav-links { display:flex; gap:14px; list-style:none; }
 .nav-links a { text-decoration:none; color:#0f172a; padding:8px 10px; border-radius:8px; font-weight:600; }
 .nav-links a:hover { background: rgba(3,102,255,0.06); color:var(--accent); }
