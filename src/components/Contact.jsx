@@ -51,7 +51,7 @@ export default function Contact(){
           <div className="card">
             <h4>Contact details</h4>
             <p className="muted">Email: <a href="mailto:vikeesalunkhe2002@gmail.com">vikeesalunkhe2002@gmail.com</a></p>
-            <p className="muted">Phone: +91 8767682984</p>
+            <p class="muted">Phone: <a href="tel:+919876543210">+91 9876543210</a></p>
             <p className="muted">Location: Pune, India</p>
 
             <div style={{marginTop:12}}>
