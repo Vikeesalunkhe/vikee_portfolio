@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/vikee_portfolio/static/css/main.5bb43274.css",
+    "main.js": "/vikee_portfolio/static/js/main.7c0c1cf9.js",
+    "static/media/profile.jpg": "/vikee_portfolio/static/media/profile.91eee73f11986b5adeda.jpg",
+    "index.html": "/vikee_portfolio/index.html",
+    "main.5bb43274.css.map": "/vikee_portfolio/static/css/main.5bb43274.css.map",
+    "main.7c0c1cf9.js.map": "/vikee_portfolio/static/js/main.7c0c1cf9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bb43274.css",
+    "static/js/main.7c0c1cf9.js"
+  ]
+}
