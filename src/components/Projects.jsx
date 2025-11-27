@@ -33,9 +33,9 @@ export default function Projects(){
               <div style={{fontWeight:700}}>{p.title}</div>
               <div className="muted" style={{fontSize:14}}>{p.desc}</div>
             </div>
-            <div style={{marginTop:10}}>
+            {/* <div style={{marginTop:10}}>
               <a className="btn" href={p.link} target="_blank" rel="noreferrer">View</a>
-            </div>
+            </div> */}
           </div>
         ))}
       </div>
